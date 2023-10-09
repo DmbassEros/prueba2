@@ -1,0 +1,17 @@
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\bin\Debug\net6.0\ProyectoJson.exe
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\bin\Debug\net6.0\ProyectoJson.deps.json
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\bin\Debug\net6.0\ProyectoJson.runtimeconfig.json
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\bin\Debug\net6.0\ProyectoJson.dll
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\bin\Debug\net6.0\ProyectoJson.pdb
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.csproj.AssemblyReference.cache
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.AssemblyInfoInputs.cache
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.AssemblyInfo.cs
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.csproj.CoreCompileInputs.cache
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.csproj.CopyComplete
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.dll
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\refint\ProyectoJson.dll
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.pdb
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ProyectoJson.genruntimeconfig.cache
+C:\Users\Enzo-\source\repos\ProyectoJson\ProyectoJson\obj\Debug\net6.0\ref\ProyectoJson.dll

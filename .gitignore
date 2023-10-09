@@ -1,0 +1,6 @@
+# Ignorar archivos binarios generados por el compilador
+*.dll
+*.exe
+
+# Ignorar el directorio "bin"
+/bin/
